@@ -1,0 +1,57 @@
+{
+  "ticker": "MSFT",
+  "analysis_date": "2026-06-07T17:14:00.416332",
+  "market_data": {
+    "price": 416.67,
+    "market_cap": 3095206035456,
+    "sector": "Technology",
+    "industry": "Software - Infrastructure"
+  },
+  "financial_ratios": {
+    "P/E": 30.4,
+    "EV/EBITDA": 19.51,
+    "EV": 3125552035456.0,
+    "EBITDA": 160165000000.0,
+    "EV/Revenue": 11.09,
+    "ROA (%)": 16.45,
+    "Current Ratio": 1.35,
+    "FCF Yield (%)": 2.31
+  },
+  "z_score": {
+    "score": 10.96,
+    "zone": "Безопасная зона (низкий риск)",
+    "recommendation": "✅ Компания финансово устойчива"
+  },
+  "peer_comparison": {
+    "P/E": {
+      "company_value": 30.4,
+      "industry_median": 34.0,
+      "deviation": -10.6,
+      "valuation": "10.6% дешевле рынка"
+    },
+    "EV/EBITDA": {
+      "company_value": 19.51,
+      "industry_median": 21.6,
+      "deviation": -9.7,
+      "valuation": "9.7% дешевле рынка"
+    },
+    "EV/Revenue": {
+      "company_value": 11.09,
+      "industry_median": 11.0,
+      "deviation": 0.8,
+      "valuation": "0.8% дороже рынка"
+    },
+    "ROA (%)": {
+      "company_value": 16.45,
+      "industry_median": 24.17,
+      "deviation": -31.9,
+      "valuation": "31.9% ниже рынка"
+    },
+    "FCF Yield (%)": {
+      "company_value": 2.31,
+      "industry_median": 2.19,
+      "deviation": 5.5,
+      "valuation": "5.5% выше рынка"
+    }
+  }
+}

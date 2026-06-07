@@ -1,0 +1,37 @@
+{
+  "ticker": "MSFT",
+  "analysis_date": "2026-06-07T18:45:59.472400",
+  "market_data": {
+    "price": 416.67,
+    "market_cap": 3095206035456,
+    "sector": "Technology"
+  },
+  "financial_ratios": {
+    "P/E": 30.4,
+    "EV/EBITDA": 19.51,
+    "EV": 3125552035456.0,
+    "EBITDA": 160165000000.0,
+    "EV/Revenue": 11.09,
+    "ROA (%)": 16.45,
+    "Current Ratio": 1.35,
+    "FCF Yield (%)": 2.31
+  },
+  "z_score": 10.96,
+  "news_sentiment": {
+    "total_news": 20,
+    "positive_pct": 45.0,
+    "negative_pct": 15.0,
+    "overall": "ПОЗИТИВ"
+  },
+  "ml_forecast": {
+    "predicted_price": 421.25,
+    "change_pct": 1.1,
+    "recommendation": "ДЕРЖАТЬ (слабый рост)"
+  },
+  "summary": [
+    "Финансовое состояние: ХОРОШЕЕ",
+    "P/E = 30.4 — акции могут быть переоценены",
+    "Новостной фон: ПОЗИТИВНЫЙ (45.0% позитивных новостей)",
+    "ML прогноз: ДЕРЖАТЬ (слабый рост +1.1%)"
+  ]
+}

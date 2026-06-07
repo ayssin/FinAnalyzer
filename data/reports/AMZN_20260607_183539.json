@@ -1,0 +1,31 @@
+{
+  "ticker": "AMZN",
+  "analysis_date": "2026-06-07T18:35:39.039045",
+  "market_data": {
+    "price": 246.03,
+    "market_cap": 2646571745280,
+    "sector": "Consumer Cyclical"
+  },
+  "financial_ratios": {
+    "P/E": 34.07,
+    "EV/EBITDA": 27.24,
+    "EV": 2712748745280.0,
+    "EBITDA": 99585000000.0,
+    "EV/Revenue": 3.78,
+    "ROA (%)": 9.49,
+    "Current Ratio": 1.05,
+    "FCF Yield (%)": 0.29
+  },
+  "z_score": 6.0,
+  "news_sentiment": {
+    "total_news": 20,
+    "positive_pct": 60.0,
+    "negative_pct": 10.0,
+    "overall": "ПОЗИТИВ"
+  },
+  "summary": [
+    "Финансовое состояние: ХОРОШЕЕ",
+    "P/E = 34.07 — акции могут быть переоценены",
+    "Новостной фон: ПОЗИТИВНЫЙ (60.0% позитивных новостей)"
+  ]
+}

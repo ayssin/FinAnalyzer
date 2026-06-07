@@ -1,0 +1,2101 @@
+{
+  "timestamp": 1780843434.695018,
+  "data": [
+    {
+      "ticker": "ABIO",
+      "name": "TQBR",
+      "isin": 47.86,
+      "currency": "ПАО \"Артген\"",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "ABRD",
+      "name": "TQBR",
+      "isin": 140.8,
+      "currency": "Абрау-Дюрсо ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "AFKS",
+      "name": "TQBR",
+      "isin": 12.189,
+      "currency": "АФК \"Система\" ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "AFLT",
+      "name": "TQBR",
+      "isin": 45.06,
+      "currency": "Аэрофлот-росс.авиалин(ПАО)ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "AKRN",
+      "name": "TQBR",
+      "isin": 17970,
+      "currency": "Акрон ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "ALRS",
+      "name": "TQBR",
+      "isin": 24.81,
+      "currency": "АЛРОСА ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "AMEZ",
+      "name": "TQBR",
+      "isin": 68.05,
+      "currency": "Ашинский метзавод ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "APRI",
+      "name": "TQBR",
+      "isin": 15.7,
+      "currency": "АПРИ",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "APTK",
+      "name": "TQBR",
+      "isin": 6.372,
+      "currency": "ПАО \"Аптечная сеть 36,6\" ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "AQUA",
+      "name": "TQBR",
+      "isin": 403.4,
+      "currency": "ПАО ИНАРКТИКА",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "ARSA",
+      "name": "TQBR",
+      "isin": 7.33,
+      "currency": "УК Арсагера ПАО-ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "ASSB",
+      "name": "TQBR",
+      "isin": 2.7,
+      "currency": "\"Астраханская ЭСК\" ПАО",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "ASTR",
+      "name": "TQBR",
+      "isin": 220.8,
+      "currency": "Группа Астра ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "AVAN",
+      "name": "TQBR",
+      "isin": 598,
+      "currency": "АКБ \"АВАНГАРД\" ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "BANE",
+      "name": "TQBR",
+      "isin": 1319,
+      "currency": "Башнефть АНК ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "BANEP",
+      "name": "TQBR",
+      "isin": 998.5,
+      "currency": "Башнефть АНК ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "BAZA",
+      "name": "TQBR",
+      "isin": 119.68,
+      "currency": "ГК БАЗИС",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "BELU",
+      "name": "TQBR",
+      "isin": 313.4,
+      "currency": "НоваБев Групп ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "BISVP",
+      "name": "TQBR",
+      "isin": 10.83,
+      "currency": "Башинформсвязь(ПАО) ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "BLNG",
+      "name": "TQBR",
+      "isin": 9.54,
+      "currency": "Белон ОАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "BRZL",
+      "name": "TQBR",
+      "isin": 1396,
+      "currency": "Бурятзолото ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "BSPB",
+      "name": "TQBR",
+      "isin": 299.75,
+      "currency": "ПАО \"Банк \"Санкт-Петербург\" ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "BSPBP",
+      "name": "TQBR",
+      "isin": 48.8,
+      "currency": "Банк Санкт-Петербург ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "BTBR",
+      "name": "TQBR",
+      "isin": 138.61,
+      "currency": "В2В-РТС",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "CARM",
+      "name": "TQBR",
+      "isin": 1.073,
+      "currency": "СТГ ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "CBOM",
+      "name": "TQBR",
+      "isin": 7.341,
+      "currency": "\"МКБ\" ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "CHGZ",
+      "name": "TQBR",
+      "isin": 106.8,
+      "currency": "РН-Западная Сибирь ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "CHKZ",
+      "name": "TQBR",
+      "isin": 16450,
+      "currency": "\"ЧКПЗ\" ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "CHMF",
+      "name": "TQBR",
+      "isin": 676.6,
+      "currency": "Северсталь (ПАО)ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "CHMK",
+      "name": "TQBR",
+      "isin": 3675,
+      "currency": "\"ЧМК\" ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "CNRU",
+      "name": "TQBR",
+      "isin": 643.2,
+      "currency": "МКПАО \"Циан\"",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "CNTL",
+      "name": "TQBR",
+      "isin": 8.78,
+      "currency": "\"Центральный Телеграф\" ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "CNTLP",
+      "name": "TQBR",
+      "isin": 5.04,
+      "currency": "\"Центральный Телеграф\" ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "DATA",
+      "name": "TQBR",
+      "isin": 94.02,
+      "currency": "Группа Аренадата",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "DELI",
+      "name": "TQBR",
+      "isin": 61.3,
+      "currency": "Каршеринг Руссия ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "DIAS",
+      "name": "TQBR",
+      "isin": 1096.5,
+      "currency": "Диасофт ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "DIOD",
+      "name": "TQBR",
+      "isin": 8.8,
+      "currency": "Завод ДИОД ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "DOMRF",
+      "name": "TQBR",
+      "isin": 2448.9,
+      "currency": "ПАО ДОМ.РФ",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "DVEC",
+      "name": "TQBR",
+      "isin": 1.688,
+      "currency": "\"ДЭК\" ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "DZRD",
+      "name": "TQBR",
+      "isin": 2010,
+      "currency": "Донской завод радиодеталей ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "DZRDP",
+      "name": "TQBR",
+      "isin": 1890,
+      "currency": "Донской завод радиодеталей ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "EELT",
+      "name": "TQBR",
+      "isin": 8.26,
+      "currency": "\"ЕвропЭлектротехника\" ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "ELFV",
+      "name": "TQBR",
+      "isin": 0.4466,
+      "currency": "\"ЭЛ5-Энерго\" ПАО",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "ELMT",
+      "name": "TQBR",
+      "isin": 0.1111,
+      "currency": "Элемент",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "ENPG",
+      "name": "TQBR",
+      "isin": 387.75,
+      "currency": "МКПАО ЭН+ ГРУП ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "ETLN",
+      "name": "TQBR",
+      "isin": 26.1,
+      "currency": "МКПАО Эталон Груп",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "EUTR",
+      "name": "TQBR",
+      "isin": 61.2,
+      "currency": "ЕвроТранс ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "EVRZ",
+      "name": "TQBR",
+      "isin": 49.75,
+      "currency": "ПАО ЕВРАЗ",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "FEES",
+      "name": "TQBR",
+      "isin": 0.05528,
+      "currency": "\"ФСК - Россети\" ПАО",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "FESH",
+      "name": "TQBR",
+      "isin": 61.04,
+      "currency": "ДВ морское пароходство ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "FIXR",
+      "name": "TQBR",
+      "isin": 0.4911,
+      "currency": "ПАО Фикс Прайс",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "FLOT",
+      "name": "TQBR",
+      "isin": 84.24,
+      "currency": "Совкомфлот ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "GAZA",
+      "name": "TQBR",
+      "isin": 420,
+      "currency": "ГАЗ ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "GAZAP",
+      "name": "TQBR",
+      "isin": 360.5,
+      "currency": "ГАЗ ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "GAZC",
+      "name": "TQBR",
+      "isin": 659,
+      "currency": "ГАЗКОН (ПАО) ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "GAZP",
+      "name": "TQBR",
+      "isin": 115.4,
+      "currency": "\"Газпром\" (ПАО) ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "GAZS",
+      "name": "TQBR",
+      "isin": 839,
+      "currency": "ГАЗ-сервис (ПАО) ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "GAZT",
+      "name": "TQBR",
+      "isin": 1739,
+      "currency": "ГАЗ-Тек ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "GCHE",
+      "name": "TQBR",
+      "isin": 3335,
+      "currency": "Группа Черкизово ПАО-ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "GECO",
+      "name": "TQBR",
+      "isin": 17.22,
+      "currency": "ЦГРМ ГЕНЕТИКО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "GEMA",
+      "name": "TQBR",
+      "isin": 120.6,
+      "currency": "ПАО ММЦБ ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "GEMC",
+      "name": "TQBR",
+      "isin": 744,
+      "currency": "Юнайтед Медикал Груп ПАО",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "GLRX",
+      "name": "TQBR",
+      "isin": 46.09,
+      "currency": "ПАО ГЛОРАКС",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "GMKN",
+      "name": "TQBR",
+      "isin": 133.1,
+      "currency": "ГМК \"Нор.Никель\" ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "GTRK",
+      "name": "TQBR",
+      "isin": 49.5,
+      "currency": "ПАО \"ГТМ\" ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "HEAD",
+      "name": "TQBR",
+      "isin": 2872,
+      "currency": "МКПАО Хэдхантер",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "HIMCP",
+      "name": "TQBR",
+      "isin": 16.74,
+      "currency": "Химпром ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "HNFG",
+      "name": "TQBR",
+      "isin": 395.4,
+      "currency": "ХЭНДЕРСОН ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "HYDR",
+      "name": "TQBR",
+      "isin": 0.3867,
+      "currency": "ПАО \"РусГидро\"",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "IGST",
+      "name": "TQBR",
+      "isin": 3920,
+      "currency": "Ижсталь ПАО ао 2в.",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "IGSTP",
+      "name": "TQBR",
+      "isin": 2880,
+      "currency": "Ижсталь ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "IRAO",
+      "name": "TQBR",
+      "isin": 3.191,
+      "currency": "\"Интер РАО\" ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "IRKT",
+      "name": "TQBR",
+      "isin": 20.08,
+      "currency": "\"Яковлев\" ПАО ак.об.-3",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "IVAT",
+      "name": "TQBR",
+      "isin": 99.7,
+      "currency": "ПАО ИВА ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "JNOS",
+      "name": "TQBR",
+      "isin": 28.92,
+      "currency": "Славнефть-ЯНОС (ПАО) ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "JNOSP",
+      "name": "TQBR",
+      "isin": 13.22,
+      "currency": "Славнефть-ЯНОС (ПАО) ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "KAZT",
+      "name": "TQBR",
+      "isin": 373,
+      "currency": "Куйбышевазот ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "KAZTP",
+      "name": "TQBR",
+      "isin": 377.5,
+      "currency": "Куйбышевазот ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "KBSB",
+      "name": "TQBR",
+      "isin": 809,
+      "currency": "ТНС энерго Кубань ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "KCHE",
+      "name": "TQBR",
+      "isin": 0.363,
+      "currency": "Камчатскэнерго ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "KCHEP",
+      "name": "TQBR",
+      "isin": 0.715,
+      "currency": "Камчатскэнерго ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "KFBA",
+      "name": "TQBR",
+      "isin": 1775,
+      "currency": "ИНГРАД ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "KGKC",
+      "name": "TQBR",
+      "isin": 43.2,
+      "currency": "Курганская генер.комп.ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "KGKCP",
+      "name": "TQBR",
+      "isin": 51.2,
+      "currency": "Курганская генер. комп. ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "KLSB",
+      "name": "TQBR",
+      "isin": 18.43,
+      "currency": "ао\"Калужская сбыт.комп.\"ПАО",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "KLVZ",
+      "name": "TQBR",
+      "isin": 2.498,
+      "currency": "Алкогольная Группа Кристалл",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "KMAZ",
+      "name": "TQBR",
+      "isin": 59.9,
+      "currency": "КАМАЗ ПАО",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "KMEZ",
+      "name": "TQBR",
+      "isin": 876,
+      "currency": "Ковровский механический завод",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "KOGK",
+      "name": "TQBR",
+      "isin": 291.8,
+      "currency": "Коршуновский ГОК ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "KRKN",
+      "name": "TQBR",
+      "isin": 11150,
+      "currency": "Саратовский НПЗ ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "KRKNP",
+      "name": "TQBR",
+      "isin": 6620,
+      "currency": "Саратовский НПЗ ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "KRKOP",
+      "name": "TQBR",
+      "isin": 13.08,
+      "currency": "ТКЗ Красный котельщик ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "KROT",
+      "name": "TQBR",
+      "isin": 1052,
+      "currency": "\"КрасныйОктябрь\" ПАО - ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "KROTP",
+      "name": "TQBR",
+      "isin": 447,
+      "currency": "КрасныйОктябрь-1п",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "KRSB",
+      "name": "TQBR",
+      "isin": 21.76,
+      "currency": "Красноярскэнергосбыт ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "KRSBP",
+      "name": "TQBR",
+      "isin": 22.1,
+      "currency": "Красноярскэнергосбыт ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "KUZB",
+      "name": "TQBR",
+      "isin": 0.0289,
+      "currency": "Банк \"Кузнецкий\" ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "KZOS",
+      "name": "TQBR",
+      "isin": 58.5,
+      "currency": "ПАО \"Органический синтез\" ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "KZOSP",
+      "name": "TQBR",
+      "isin": 13.05,
+      "currency": "ПАО \"Органический синтез\" ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "LEAS",
+      "name": "TQBR",
+      "isin": 660.9,
+      "currency": "ПАО «ЛК «Европлан»",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "LENT",
+      "name": "TQBR",
+      "isin": 1890.5,
+      "currency": "Лента МКПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "LIFE",
+      "name": "TQBR",
+      "isin": 2.52,
+      "currency": "Фармсинтез ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "LKOH",
+      "name": "TQBR",
+      "isin": 4825,
+      "currency": "НК ЛУКОЙЛ (ПАО) - ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "LMBZ",
+      "name": "TQBR",
+      "isin": 517,
+      "currency": "Ламбумиз",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "LNZL",
+      "name": "TQBR",
+      "isin": 1260,
+      "currency": "\"Лензолото\" ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "LNZLP",
+      "name": "TQBR",
+      "isin": 184,
+      "currency": "\"Лензолото\" ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "LPSB",
+      "name": "TQBR",
+      "isin": 56.1,
+      "currency": "Липецкая энергосбыт.ком.ОАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "LSNG",
+      "name": "TQBR",
+      "isin": 15.11,
+      "currency": "Россети Ленэнерго ПАО-ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "LSNGP",
+      "name": "TQBR",
+      "isin": 376.4,
+      "currency": "Россети Ленэнерго ПАО-ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "LSRG",
+      "name": "TQBR",
+      "isin": 661.4,
+      "currency": "Группа ЛСР ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "LVHK",
+      "name": "TQBR",
+      "isin": 22.05,
+      "currency": "Левенгук ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MAGE",
+      "name": "TQBR",
+      "isin": 2.42,
+      "currency": "\"Магаданэнерго\" ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MAGEP",
+      "name": "TQBR",
+      "isin": 2.2,
+      "currency": "\"Магаданэнерго\" ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MAGN",
+      "name": "TQBR",
+      "isin": 22.355,
+      "currency": "\"Магнитогорск.мет.комб\" ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MBNK",
+      "name": "TQBR",
+      "isin": 1211,
+      "currency": "МТС-Банк ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MDMG",
+      "name": "TQBR",
+      "isin": 1305.4,
+      "currency": "МКПАО «МД Медикал Груп»",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MFGS",
+      "name": "TQBR",
+      "isin": 351,
+      "currency": "ао \"Славнефть-Мегионнефтегаз\"",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MFGSP",
+      "name": "TQBR",
+      "isin": 249.5,
+      "currency": "ап Мегионнефтегаз",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MGKL",
+      "name": "TQBR",
+      "isin": 2.4755,
+      "currency": "МГКЛ ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MGNT",
+      "name": "TQBR",
+      "isin": 2195,
+      "currency": "\"Магнит\" ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MGNZ",
+      "name": "TQBR",
+      "isin": 7440,
+      "currency": "Соликамский магн.завод(ОАО)ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MGTS",
+      "name": "TQBR",
+      "isin": 1256,
+      "currency": "ПАО \"МГТС\" ао (5 в)",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MGTSP",
+      "name": "TQBR",
+      "isin": 1294,
+      "currency": "ПАО \"МГТС\" ап (4 в)",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MISB",
+      "name": "TQBR",
+      "isin": 48,
+      "currency": "ТНС энерго Марий Эл ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MISBP",
+      "name": "TQBR",
+      "isin": 56.2,
+      "currency": "ТНС энерго Марий Эл ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MOEX",
+      "name": "TQBR",
+      "isin": 176.74,
+      "currency": "ПАО Московская Биржа",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MRKC",
+      "name": "TQBR",
+      "isin": 0.6786,
+      "currency": "ПАО \"Россети Центр\" ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MRKK",
+      "name": "TQBR",
+      "isin": 19.26,
+      "currency": "Россети Сев. Кавказ ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MRKP",
+      "name": "TQBR",
+      "isin": 0.606,
+      "currency": "Россети Центр и Приволжье ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MRKS",
+      "name": "TQBR",
+      "isin": 0.494,
+      "currency": "Россети Сибирь ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MRKU",
+      "name": "TQBR",
+      "isin": 0.6148,
+      "currency": "Россети Урал (ПАО) ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MRKV",
+      "name": "TQBR",
+      "isin": 0.20735,
+      "currency": "Россети Волга ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MRKY",
+      "name": "TQBR",
+      "isin": 0.0781,
+      "currency": "Россети Юг  (ПАО) ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MRKZ",
+      "name": "TQBR",
+      "isin": 0.15005,
+      "currency": "ПАО Россети Северо-Запад ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MRSB",
+      "name": "TQBR",
+      "isin": 0.908,
+      "currency": "Мордовск.энергсбыт.комп.ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MSNG",
+      "name": "TQBR",
+      "isin": 1.9395,
+      "currency": "МосЭнерго акции обыкн.",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MSRS",
+      "name": "TQBR",
+      "isin": 1.836,
+      "currency": "ПАО Россети Моск.рег. ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MSTT",
+      "name": "TQBR",
+      "isin": 96.95,
+      "currency": "ПАО \"МОСТОТРЕСТ\" ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MTLR",
+      "name": "TQBR",
+      "isin": 46.82,
+      "currency": "Мечел ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MTLRP",
+      "name": "TQBR",
+      "isin": 46,
+      "currency": "Мечел ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MTSS",
+      "name": "TQBR",
+      "isin": 227.6,
+      "currency": "Мобильные ТелеСистемы ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "MVID",
+      "name": "TQBR",
+      "isin": 62.8,
+      "currency": "\"М.видео\" ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "NAUK",
+      "name": "TQBR",
+      "isin": 509.5,
+      "currency": "НПО Наука ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "NFAZ",
+      "name": "TQBR",
+      "isin": 201,
+      "currency": "НЕФАЗ ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "NKHP",
+      "name": "TQBR",
+      "isin": 493.5,
+      "currency": "НКХП ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "NKNC",
+      "name": "TQBR",
+      "isin": 65.8,
+      "currency": "\"Нижнекамскнефтехим\" ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "NKNCP",
+      "name": "TQBR",
+      "isin": 47.32,
+      "currency": "\"Нижнекамскнефтехим\" ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "NKSH",
+      "name": "TQBR",
+      "isin": 30.5,
+      "currency": "Нижнекамскшина ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "NLMK",
+      "name": "TQBR",
+      "isin": 74.72,
+      "currency": "ПАО \"НЛМК\" ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "NMTP",
+      "name": "TQBR",
+      "isin": 8.735,
+      "currency": "НМТП (ПАО) ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "NNSB",
+      "name": "TQBR",
+      "isin": 3830,
+      "currency": "ТНС энерго Нижний Новг.ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "NNSBP",
+      "name": "TQBR",
+      "isin": 1422,
+      "currency": "ТНС энерго Нижний Новг.ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "NSVZ",
+      "name": "TQBR",
+      "isin": 223.5,
+      "currency": "Наука-Связь ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "NVTK",
+      "name": "TQBR",
+      "isin": 1092.5,
+      "currency": "ПАО \"НОВАТЭК\" ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "OGKB",
+      "name": "TQBR",
+      "isin": 0.2579,
+      "currency": "ОГК-2 ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "OKEY",
+      "name": "TQBR",
+      "isin": 42.45,
+      "currency": "ГДР OKEY Group S.A. ORD SHS",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "OMZZP",
+      "name": "TQBR",
+      "isin": 10520,
+      "currency": "ап\"Объединён.  маш. заводы\"",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "OZON",
+      "name": "TQBR",
+      "isin": 3778.5,
+      "currency": "МКПАО Озон",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "OZPH",
+      "name": "TQBR",
+      "isin": 46.89,
+      "currency": "Озон Фармацевтика",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "PAZA",
+      "name": "TQBR",
+      "isin": 8740,
+      "currency": "Павловский автобус ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "PHOR",
+      "name": "TQBR",
+      "isin": 6240,
+      "currency": "ФосАгро ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "PIKK",
+      "name": "TQBR",
+      "isin": 544.9,
+      "currency": "ПИК СЗ (ПАО) ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "PLZL",
+      "name": "TQBR",
+      "isin": 2064,
+      "currency": "Полюс ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "PMSB",
+      "name": "TQBR",
+      "isin": 467.1,
+      "currency": "\"Пермэнергосбыт\" ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "PMSBP",
+      "name": "TQBR",
+      "isin": 485,
+      "currency": "\"Пермэнергосбыт\" ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "POSI",
+      "name": "TQBR",
+      "isin": 895.4,
+      "currency": "Группа Позитив ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "PRFN",
+      "name": "TQBR",
+      "isin": 3.592,
+      "currency": "ТЕПЛАНТ восток (ПАО) ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "PRMB",
+      "name": "TQBR",
+      "isin": 22200,
+      "currency": "АКБ \"Приморье\" ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "PRMD",
+      "name": "TQBR",
+      "isin": 400.4,
+      "currency": "ПРОМОМЕД",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "RAGR",
+      "name": "TQBR",
+      "isin": 103.34,
+      "currency": "Группа Русагро",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "RASP",
+      "name": "TQBR",
+      "isin": 118.45,
+      "currency": "ПАО Распадская ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "RBCM",
+      "name": "TQBR",
+      "isin": 8.135,
+      "currency": "ГК РБК ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "RDRB",
+      "name": "TQBR",
+      "isin": 117.8,
+      "currency": "РоссийскийДорож Банк ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "RENI",
+      "name": "TQBR",
+      "isin": 87.34,
+      "currency": "Ренессанс Страхование ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "RGSS",
+      "name": "TQBR",
+      "isin": 0.188,
+      "currency": "Росгосстрах СК ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "RKKE",
+      "name": "TQBR",
+      "isin": 13100,
+      "currency": "РКК Энергия им.С.П.Королева ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "RNFT",
+      "name": "TQBR",
+      "isin": 94.05,
+      "currency": "РуссНефть НК ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "ROLO",
+      "name": "TQBR",
+      "isin": 0.329,
+      "currency": "\"Русолово\" ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "ROSN",
+      "name": "TQBR",
+      "isin": 386.55,
+      "currency": "ПАО НК Роснефть",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "ROST",
+      "name": "TQBR",
+      "isin": 80.2,
+      "currency": "РОСИНТЕР РЕСТОРАНТС (ПАО)",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "RTGZ",
+      "name": "TQBR",
+      "isin": 37400,
+      "currency": "Газпром газорасп Р-н-Д ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "RTKM",
+      "name": "TQBR",
+      "isin": 51.39,
+      "currency": "Ростелеком (ПАО) ао.",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "RTKMP",
+      "name": "TQBR",
+      "isin": 52.55,
+      "currency": "Ростелеком (ПАО) ап.",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "RTSB",
+      "name": "TQBR",
+      "isin": 3,
+      "currency": "ТНС энерго Ростов. ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "RTSBP",
+      "name": "TQBR",
+      "isin": 1.442,
+      "currency": "ТНС энерго Ростов. ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "RUAL",
+      "name": "TQBR",
+      "isin": 37.47,
+      "currency": "РУСАЛ ОК МКПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "RUSI",
+      "name": "TQBR",
+      "isin": 66,
+      "currency": "РУСС-ИНВЕСТ ИК ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "RZSB",
+      "name": "TQBR",
+      "isin": 38.98,
+      "currency": "\"Рязанская энергосб.комп\" ПАО",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "SAGO",
+      "name": "TQBR",
+      "isin": 2.48,
+      "currency": "Самараэнерго (ПАО) - ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "SAGOP",
+      "name": "TQBR",
+      "isin": 2.36,
+      "currency": "Самараэнерго (ПАО) - ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "SARE",
+      "name": "TQBR",
+      "isin": 0.739,
+      "currency": "Саратовэнерго(ПАО)-ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "SAREP",
+      "name": "TQBR",
+      "isin": 0.4235,
+      "currency": "Саратовэнерго(ПАО)-ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "SBER",
+      "name": "TQBR",
+      "isin": 322.19,
+      "currency": "Сбербанк России ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "SBERP",
+      "name": "TQBR",
+      "isin": 323.48,
+      "currency": "Сбербанк России ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "SELG",
+      "name": "TQBR",
+      "isin": 42.8,
+      "currency": "ПАО \"Селигдар\"  ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "SFIN",
+      "name": "TQBR",
+      "isin": 690.6,
+      "currency": "ЭсЭфАй ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "SGZH",
+      "name": "TQBR",
+      "isin": 0.854,
+      "currency": "Сегежа ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "SIBN",
+      "name": "TQBR",
+      "isin": 501.55,
+      "currency": "Газпром нефть ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "SLEN",
+      "name": "TQBR",
+      "isin": 3.215,
+      "currency": "ПАО \"Сахалинэнерго\" ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "SMLT",
+      "name": "TQBR",
+      "isin": 378,
+      "currency": "ГК Самолет ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "SNGS",
+      "name": "TQBR",
+      "isin": 19.09,
+      "currency": "Сургутнефтегаз ПАО акции об.",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "SNGSP",
+      "name": "TQBR",
+      "isin": 41.24,
+      "currency": "Сургутнефтегаз ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "SOFL",
+      "name": "TQBR",
+      "isin": 53.84,
+      "currency": "Софтлайн ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "SPBE",
+      "name": "TQBR",
+      "isin": 195.5,
+      "currency": "СПБ Биржа ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "STSB",
+      "name": "TQBR",
+      "isin": 5.075,
+      "currency": "Ставрополэнергосбыт ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "STSBP",
+      "name": "TQBR",
+      "isin": 5.535,
+      "currency": "Ставрополэнергосбыт ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "SVAV",
+      "name": "TQBR",
+      "isin": 449.5,
+      "currency": "ПАО \"СОЛЛЕРС\"",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "SVCB",
+      "name": "TQBR",
+      "isin": 11.76,
+      "currency": "Совкомбанк ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "SVET",
+      "name": "TQBR",
+      "isin": 11.92,
+      "currency": "Светофор Групп ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "SVETP",
+      "name": "TQBR",
+      "isin": 21,
+      "currency": "Светофор Групп ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "T",
+      "name": "TQBR",
+      "isin": 297,
+      "currency": "Т-Технологии МКПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "TASB",
+      "name": "TQBR",
+      "isin": 1.6,
+      "currency": "ао\"Тамбов.энергсбыт.комп.\"ПАО",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "TASBP",
+      "name": "TQBR",
+      "isin": 0.962,
+      "currency": "ап\"Тамбов.энергсбыт.комп.\"ПАО",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "TATN",
+      "name": "TQBR",
+      "isin": 609,
+      "currency": "ПАО \"Татнефть\" ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "TATNP",
+      "name": "TQBR",
+      "isin": 572.1,
+      "currency": "ПАО \"Татнефть\" ап 3 вып.",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "TGKA",
+      "name": "TQBR",
+      "isin": 0.005578,
+      "currency": "ао ПАО \"ТГК-1\"",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "TGKB",
+      "name": "TQBR",
+      "isin": 0.005755,
+      "currency": "ао ПАО \"ТГК-2\"",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "TGKBP",
+      "name": "TQBR",
+      "isin": 0.00881,
+      "currency": "ап ПАО \"ТГК-2\"",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "TGKN",
+      "name": "TQBR",
+      "isin": 0.00468,
+      "currency": "ао ПАО \"ТГК-14\"",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "TNSE",
+      "name": "TQBR",
+      "isin": 3430,
+      "currency": "ПАО ГК \"ТНС энерго\" ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "TORS",
+      "name": "TQBR",
+      "isin": 0.75,
+      "currency": "ао ПАО \"Россети Томск\"",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "TORSP",
+      "name": "TQBR",
+      "isin": 0.61,
+      "currency": "ап ПАО \"Россети Томск\"",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "TRMK",
+      "name": "TQBR",
+      "isin": 75.14,
+      "currency": "ПАО ТМК",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "TRNFP",
+      "name": "TQBR",
+      "isin": 1406.8,
+      "currency": "Транснефть ПАО акц.пр.",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "TTLK",
+      "name": "TQBR",
+      "isin": 0.6015,
+      "currency": "\"Таттелеком\" ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "TUZA",
+      "name": "TQBR",
+      "isin": 106.8,
+      "currency": "Туймаз. завод автобетоновозов",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "UGLD",
+      "name": "TQBR",
+      "isin": 0.5877,
+      "currency": "ЮГК",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "UKUZ",
+      "name": "TQBR",
+      "isin": 702,
+      "currency": "Южный Кузбасс ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "UNAC",
+      "name": "TQBR",
+      "isin": 0.3675,
+      "currency": "Об.авиастр.корп. ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "UNKL",
+      "name": "TQBR",
+      "isin": 3740,
+      "currency": "Южно-Уральский никел. комб. ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "UPRO",
+      "name": "TQBR",
+      "isin": 1.232,
+      "currency": "Юнипро ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "URKZ",
+      "name": "TQBR",
+      "isin": 252,
+      "currency": "ПАО \"Уральская кузница\" ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "USBN",
+      "name": "TQBR",
+      "isin": 0.1487,
+      "currency": "БАНК УРАЛСИБ ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "UTAR",
+      "name": "TQBR",
+      "isin": 10.2,
+      "currency": "Авиакомпания \"ЮТэйр\" (ПАО) ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "UWGN",
+      "name": "TQBR",
+      "isin": 22.4,
+      "currency": "ПАО НПК ОВК ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "VEON-RX",
+      "name": "TQBR",
+      "isin": 57.7,
+      "currency": "VEON Ltd. ORD SHS",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "VGSB",
+      "name": "TQBR",
+      "isin": 13.75,
+      "currency": "\"Волгоград.энергосбыткомп\" ПАО",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "VGSBP",
+      "name": "TQBR",
+      "isin": 12.2,
+      "currency": "\"Волгоград.энергосбыткомп\" ПАО",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "VJGZ",
+      "name": "TQBR",
+      "isin": 3210,
+      "currency": "ННК-Варьеганнефтегаз ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "VJGZP",
+      "name": "TQBR",
+      "isin": 1266,
+      "currency": "ННК-Варьеганнефтегаз ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "VKCO",
+      "name": "TQBR",
+      "isin": 234.85,
+      "currency": "Международная компания ПАО ВК",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "VLHZ",
+      "name": "TQBR",
+      "isin": 143.4,
+      "currency": "Владимирский химич.з-д(ПАО) ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "VRSB",
+      "name": "TQBR",
+      "isin": 339.5,
+      "currency": "ТНС энерго Воронеж ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "VRSBP",
+      "name": "TQBR",
+      "isin": 160.4,
+      "currency": "ТНС энерго Воронеж ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "VSEH",
+      "name": "TQBR",
+      "isin": 71.09,
+      "currency": "ВИ.ру",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "VSMO",
+      "name": "TQBR",
+      "isin": 24620,
+      "currency": "Корп. ВСМПО-АВИСМА (ПАО) ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "VSYD",
+      "name": "TQBR",
+      "isin": 7950,
+      "currency": "Выборгский Суд.Завод ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "VSYDP",
+      "name": "TQBR",
+      "isin": 7000,
+      "currency": "Выборгский Суд.Завод ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "VTBR",
+      "name": "TQBR",
+      "isin": 76.04,
+      "currency": "ао ПАО Банк ВТБ",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "WTCM",
+      "name": "TQBR",
+      "isin": 13.48,
+      "currency": "\"Центр междун. торговли\"ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "WTCMP",
+      "name": "TQBR",
+      "isin": 12.36,
+      "currency": "\"Центр междун. торговли\"ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "WUSH",
+      "name": "TQBR",
+      "isin": 66.09,
+      "currency": "ВУШ Холдинг ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "X5",
+      "name": "TQBR",
+      "isin": 2437.5,
+      "currency": "Корпоративный центр ИКС 5",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "YAKG",
+      "name": "TQBR",
+      "isin": 39.85,
+      "currency": "Якутская топл.-энерг. комп. ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "YDEX",
+      "name": "TQBR",
+      "isin": 3970.5,
+      "currency": "МКПАО ЯНДЕКС",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "YKEN",
+      "name": "TQBR",
+      "isin": 0.387,
+      "currency": "АК \"Якутскэнерго\" (ПАО) ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "YKENP",
+      "name": "TQBR",
+      "isin": 0.29,
+      "currency": "АК \"Якутскэнерго\" (ПАО) ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "YRSB",
+      "name": "TQBR",
+      "isin": 762,
+      "currency": "ТНС энерго Ярославль ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "YRSBP",
+      "name": "TQBR",
+      "isin": 194,
+      "currency": "ТНС энерго Ярославль ПАО ап",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "ZAYM",
+      "name": "TQBR",
+      "isin": 144.3,
+      "currency": "Займер ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "ZILL",
+      "name": "TQBR",
+      "isin": 4395,
+      "currency": "Завод им. И.А.Лихачева ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    },
+    {
+      "ticker": "ZVEZ",
+      "name": "TQBR",
+      "isin": 5.79,
+      "currency": "ЗВЕЗДА ПАО ао",
+      "lot_size": "FNDT",
+      "sector": "Другое"
+    }
+  ]
+}

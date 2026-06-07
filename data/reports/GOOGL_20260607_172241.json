@@ -1,0 +1,57 @@
+{
+  "ticker": "GOOGL",
+  "analysis_date": "2026-06-07T17:22:41.566237",
+  "market_data": {
+    "price": 368.53,
+    "market_cap": 4494199357440,
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information"
+  },
+  "financial_ratios": {
+    "P/E": 34.0,
+    "EV/EBITDA": 25.03,
+    "EV": 4522782357440.0,
+    "EBITDA": 180698000000.0,
+    "EV/Revenue": 11.23,
+    "ROA (%)": 22.2,
+    "Current Ratio": 2.01,
+    "FCF Yield (%)": 1.63
+  },
+  "z_score": {
+    "score": 19.17,
+    "zone": "Безопасная зона (низкий риск)",
+    "recommendation": "✅ Компания финансово устойчива"
+  },
+  "peer_comparison": {
+    "P/E": {
+      "company_value": 34.0,
+      "industry_median": 34.07,
+      "deviation": -0.2,
+      "valuation": "0.2% дешевле рынка"
+    },
+    "EV/EBITDA": {
+      "company_value": 25.03,
+      "industry_median": 27.24,
+      "deviation": -8.1,
+      "valuation": "8.1% дешевле рынка"
+    },
+    "EV/Revenue": {
+      "company_value": 11.23,
+      "industry_median": 11.0,
+      "deviation": 2.1,
+      "valuation": "2.1% дороже рынка"
+    },
+    "ROA (%)": {
+      "company_value": 22.2,
+      "industry_median": 16.45,
+      "deviation": 35.0,
+      "valuation": "35.0% выше рынка"
+    },
+    "FCF Yield (%)": {
+      "company_value": 1.63,
+      "industry_median": 2.19,
+      "deviation": -25.6,
+      "valuation": "25.6% ниже рынка"
+    }
+  }
+}

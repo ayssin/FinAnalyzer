@@ -1,0 +1,37 @@
+{
+  "ticker": "AAPL",
+  "analysis_date": "2026-06-07T18:56:11.083118",
+  "market_data": {
+    "price": 307.34,
+    "market_cap": 4514011676672,
+    "sector": "Technology"
+  },
+  "financial_ratios": {
+    "P/E": 40.3,
+    "EV/EBITDA": 34.4,
+    "EV": 4576734676672.0,
+    "EBITDA": 133050000000.0,
+    "EV/Revenue": 11.0,
+    "ROA (%)": 31.18,
+    "Current Ratio": 0.89,
+    "FCF Yield (%)": 2.19
+  },
+  "z_score": 12.51,
+  "news_sentiment": {
+    "total_news": 20,
+    "positive_pct": 45.0,
+    "negative_pct": 0.0,
+    "overall": "ПОЗИТИВ"
+  },
+  "ml_forecast": {
+    "predicted_price": 278.71,
+    "change_pct": -9.31,
+    "recommendation": "ПРОДАВАТЬ"
+  },
+  "summary": [
+    "Финансовое состояние: ХОРОШЕЕ",
+    "P/E = 40.3 — акции могут быть переоценены",
+    "Новостной фон: ПОЗИТИВНЫЙ (45.0% позитивных новостей)",
+    "ML прогноз: ПРОДАВАТЬ (прогнозируемое падение -9.3%)"
+  ]
+}
